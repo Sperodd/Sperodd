@@ -41,6 +41,7 @@ I enjoy building interactive experiences, exploring new technologies, and solvin
 - 🎮 Unity Game Development
 - ⚙️ Backend Architecture & Database Design
 - 🧠 Algorithms & Problem Solving
+- 🤖 Machine learning & Deep learning
 
 <!--
 **Sperodd/Sperodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
