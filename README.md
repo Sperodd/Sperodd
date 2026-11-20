@@ -1,12 +1,9 @@
-# Hi there! 👋
-
-### 👨‍💻 Game Developer & Software Engineer
+# 👨‍💻 Game Developer & Software Engineer
 
 Interested in **Game Development, Backend Engineering, and Software Development.**
 
 I enjoy building interactive experiences, exploring new technologies, and solving challenging problems.
 
----
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
